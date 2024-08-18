@@ -1,0 +1,32 @@
+#bg {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+   }
+
+/* .bg1 {
+    margin-top: 100px;
+    margin-left: 450px;
+    margin-right: 250px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 3px;
+    background-image: url(free.jpg);
+    size: 25px;
+} */
+
+button {
+    margin-top: 2rem;
+    border-radius: 3px;
+    color: white;
+    background-color: green;
+    height: 30px;
+}
+label {
+    font-weight: bold;
+    margin-left: 10px;
+}
+input{
+    width: 30rem;
+    margin-left: 10px;
+    border-radius: 4px;
+}

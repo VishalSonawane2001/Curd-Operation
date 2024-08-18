@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+
+
+#bg{
+    
+    background-image: url(free.jpg);
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius:3px;
+}
+
+#bg2{
+    margin-left:200px;
+}
+input{
+    width: 10cm;
+    border-radius: 2px;
+}
+
+button{
+    background-color: white;
+    /* Green */
+    border: none;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    border-radius: 7px;
+    margin-left: 150px;
+    
+}
+
+
+
+p{
+    font-size: 20px;
+}
+
+
+
